@@ -1,5 +1,3 @@
-# UTN Fullstack Final Project
-
 ## Project Description
 FE ReactJS app to manage a user library by making queries to a MySQL DB developed in a NodeJS server, that is included in this project repository.
 
